@@ -1,6 +1,6 @@
-package com.example.postgreetester.repository;
+package com.example.postgreetester.domain.repository;
 
-import com.example.postgreetester.model.Aluno;
+import com.example.postgreetester.domain.model.Aluno;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

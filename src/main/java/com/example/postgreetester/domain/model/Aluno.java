@@ -1,4 +1,4 @@
-package com.example.postgreetester.model;
+package com.example.postgreetester.domain.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

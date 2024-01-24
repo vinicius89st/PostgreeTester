@@ -1,7 +1,7 @@
 package com.example.postgreetester;
 
-import com.example.postgreetester.model.Aluno;
-import com.example.postgreetester.repository.AlunoRepository;
+import com.example.postgreetester.domain.model.Aluno;
+import com.example.postgreetester.domain.repository.AlunoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
